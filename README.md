@@ -7,3 +7,5 @@ socket, and header are needed to complete the assembly.  A connector can be used
 hard-wired to the connector pads.
 <p>
 Currently, only the "E" and "C" SmartWatch modules are supported here.  Other versions may come later.<br>
+
+The .zip archives contain the design source files as well as the outputs (Gerber, NCDrill, PDF schem, & BOM docs).
